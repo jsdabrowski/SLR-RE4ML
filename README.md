@@ -5,7 +5,7 @@ The repository contains suplementary materials for our systematic literature rev
 
 - data etraction form ("SLR-RE4ML-data-extraction-form.xlsx")
 - database storing the meta-data of surveyed papers ("SLR-RE4ML-bibliography.bib")
-- list and references to publicly-available app review mining tools ("publicly-available-supplementary-materials.csv")
+- list and references to publicly-available supplementary materials ("supplementary-materials.csv")
 
 We hope the new knowledge proviaded in our SLR will contribute to improving the quality of requirements engineering.
 
